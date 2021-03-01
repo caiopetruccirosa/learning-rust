@@ -1,6 +1,6 @@
 # Learning Rust
 
-In this repository, I will try to test different functionalities of the Rust, as well as centralize documentations useful for begginers.
+In this repository, I will try to test different functionalities of the Rust programming language, as well as centralize documentations useful for begginers.
 
 ## Docs and Useful References
 
