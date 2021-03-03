@@ -11,6 +11,11 @@ In this repository, I will try to test different functionalities of the Rust pro
 - [rust-by-example](https://github.com/rust-lang/rust-by-example/blob/master/src/cargo.md): a Github repository that holds examples implementing basic funcionalities of Rust.
 - [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/): a beginner friendly introduction to Rust by Steve J. Donovan.
 
+## Interesting Talks to Watch
+
+- [Considering Rust](https://www.youtube.com/watch?v=DnT-LUQgc7s) by Jon Gjengset.
+- [Rust Concurrency Explained](https://www.youtube.com/watch?v=Dbytx0ivH7Q) by Alex Crichton.
+
 ## Discord Community
 
 Feel free to join the Rust Programming Language Community Server on Discord by [clicking here](https://discord.gg/rvvxESbaWn).
