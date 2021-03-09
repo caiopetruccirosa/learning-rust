@@ -11,10 +11,17 @@ In this repository, I will try to test different functionalities of the Rust pro
 - [rust-by-example](https://github.com/rust-lang/rust-by-example/blob/master/src/cargo.md): a Github repository that holds examples implementing basic funcionalities of Rust.
 - [A Gentle Introduction To Rust](https://stevedonovan.github.io/rust-gentle-intro/): a beginner friendly introduction to Rust by Steve J. Donovan.
 
-## Interesting Talks to Watch
+> ### Note
+>
+> The Rust Programming Book is a must-read for Rust begginers and aspiring Rust developers.
+>
+
+## Interesting Talks and Lectures to Watch
 
 - [Considering Rust](https://www.youtube.com/watch?v=DnT-LUQgc7s) by Jon Gjengset.
 - [Rust Concurrency Explained](https://www.youtube.com/watch?v=Dbytx0ivH7Q) by Alex Crichton.
+- [Rust Programming Techniques](https://www.youtube.com/watch?v=vqavdUGKeb4&t=3s&ab_channel=LinuxConfAu2018-Sydney%2CAustralia): a talk by Nicholas Cameron, a developer from the Rust Mozilla Team.
+- [Rust Ownership and Borrowing](https://youtu.be/lQ7XF-6HYGc): a lesson on ownership and borrowing by Doug Milford.
 
 ## Discord Community
 
