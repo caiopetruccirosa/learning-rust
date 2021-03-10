@@ -1,6 +1,7 @@
 use std::io::{self, Write};
 use rand::Rng;
 
+// Program developed using The Rust Programming book as an exercise
 fn main() {
     println!("Guess the number!");
 
