@@ -21,7 +21,10 @@ In this repository, I will try to test different functionalities of the Rust pro
 - [Considering Rust](https://www.youtube.com/watch?v=DnT-LUQgc7s) by Jon Gjengset.
 - [Rust Concurrency Explained](https://www.youtube.com/watch?v=Dbytx0ivH7Q) by Alex Crichton.
 - [Rust Programming Techniques](https://www.youtube.com/watch?v=vqavdUGKeb4&t=3s&ab_channel=LinuxConfAu2018-Sydney%2CAustralia): a talk by Nicholas Cameron, a developer from the Rust Mozilla Team.
-- [Rust Ownership and Borrowing](https://youtu.be/lQ7XF-6HYGc): a lesson on ownership and borrowing by Doug Milford.
+- Rust basics lessons by Doug Milford:
+    - [Rust Ownership and Borrowing](https://youtu.be/lQ7XF-6HYGc): a lesson on ownership and borrowing.
+    - [Rust Lifetimes](https://www.youtube.com/watch?v=1QoT9fmPYr8): a lesson on variables lifetimes and how it is related to the Rust memory management concept.
+    - [Rust Structs, Traits and Impl](https://www.youtube.com/watch?v=gi0AQ78diSA): a lesson on how to use structs and traits for polymorphism.
 
 ## Discord Community
 
